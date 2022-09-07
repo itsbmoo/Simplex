@@ -1,2 +1,3 @@
 # Simplex
-A Programming Language
+
+Simplex Programming Language
